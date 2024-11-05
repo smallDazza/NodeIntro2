@@ -1,0 +1,5 @@
+PORT = 5050
+DATABASE_URI = asdasd:asdasd
+JWT_SECURITY_KEY = asdasdas
+SECRET_KEY = apple
+SECURE_API_KEY = sdfas76d5f7as6d5fasd
